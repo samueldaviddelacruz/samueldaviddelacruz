@@ -7,7 +7,7 @@
 - Sometimes i [write](https://samy023.bearblog.dev/) stuff about tech.
 - I speak english and spanish.
 
-### ⚒ My Skills toolkit
+### ⚒ My Skills
 - JavaScript 
 - React
 - Node 
