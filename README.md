@@ -7,13 +7,12 @@
 - Sometimes i [write](https://samy023.bearblog.dev/) stuff about tech.
 - I speak english and spanish.
 
-### ⚒ My (main) Skills
+### ⚒ My Skills toolkit
 - JavaScript 
 - React
 - Node 
 - C#  
-- Go
-- And more!
+- Go 
 
 
 You can hit me up over [Email](mailto:alphaelena@gmail.com), [Linkedin](https://www.linkedin.com/in/samuel-david-72ab9084/)
