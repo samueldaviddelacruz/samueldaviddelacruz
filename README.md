@@ -15,4 +15,4 @@
 - Go 
 
 
-You can hit me up on [Email](mailto:alphaelena@gmail.com), [Linkedin](https://www.linkedin.com/in/samuel-david-72ab9084/)
+You can hit me up over [Email](mailto:alphaelena@gmail.com) or [Linkedin](https://www.linkedin.com/in/samuel-david-72ab9084/)
