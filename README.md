@@ -10,8 +10,8 @@
 - JavaScript 
 - React
 - Node 
-- C#  
 - Go 
+- C#
 
 
 You can hit me up over [Email](mailto:delacruzportorrealsamueldavid@gmail.com) or [Linkedin](https://www.linkedin.com/in/samuel-de-la-cruz-portorreal)
