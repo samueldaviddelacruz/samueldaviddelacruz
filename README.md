@@ -14,4 +14,4 @@
 - Go 
 
 
-You can hit me up over [Email](mailto:delacruzportorrealsamueldavid@gmail.com) or [Linkedin](https://www.linkedin.com/in/samuel-david-72ab9084/)
+You can hit me up over [Email](mailto:delacruzportorrealsamueldavid@gmail.com) or [Linkedin](www.linkedin.com/in/samuel-de-la-cruz-portorreal)
